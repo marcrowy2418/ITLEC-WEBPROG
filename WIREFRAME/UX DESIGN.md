@@ -1,5 +1,5 @@
 LOGO of the application(Created by Miguel Calderon)
-
+![LoGO](https://user-images.githubusercontent.com/72148813/107854189-442ce300-6e55-11eb-9a20-c41634dcc807.png)
 
 Prototype Application( Created by James Heramil and Roselle Policarpio)
 
